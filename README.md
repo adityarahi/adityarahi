@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Aditya Rahi (@adityarahi1)
 
-<!--
-**adityarahi/adityarahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+## About Me
+- 👀 I’m deeply interested in **graph algorithms**, **machine learning**, and love tackling **challenging problems**.
+- 💻 Currently working as a **Software Engineer** at **Cadence Design Systems**.
+- 🌱 Always learning and growing in my craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Up To
+- ⚡ Looking forward to collaborating on **open-source projects**.
+- ✍️ Passionate about writing **technical documentation** and **articles** to share knowledge and insights.
+
+Feel free to explore my repositories or reach out to me for collaborations. Let’s build something amazing together! ✨
