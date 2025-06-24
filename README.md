@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aditya Rahi (@adityarahi1)
+# 👋 Hi, I’m Aditya Rahi (@adityarahi)
 
 Welcome to my GitHub profile! 🚀
 
